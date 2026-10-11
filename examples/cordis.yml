@@ -1,0 +1,4 @@
+- name: '@libai168/dsh-tool-todoist'
+  config:
+    # Set TODOIST_API_TOKEN in the environment or configure a secret manager.
+    timeoutMs: 30000
